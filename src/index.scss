@@ -1,0 +1,12 @@
+@import './estilos/carta';
+@import './estilos/modal';
+
+body {
+	background-color: #B6CDE8;
+	color: black;
+	min-height: 100vh;
+}
+
+::selection {
+  background-color: transparent;
+}
